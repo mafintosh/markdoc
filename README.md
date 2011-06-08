@@ -32,4 +32,4 @@ Markdoc can also be used as a node module
     // to render multiline comments from some code just do:
     var codeDocumentation = markdoc.parseCode('my code file with markdown comments');
 
-### Happy hacking! @mafintosh
+### Happy hacking! [@mafintosh](http://twitter.com/mafintosh)
