@@ -1,4 +1,4 @@
-## markdoc
+# markdoc
 
 Markdoc is a simple way to convert documentation written in markdown into a nice looking html file.
 First install markdoc:
