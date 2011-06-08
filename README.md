@@ -7,6 +7,8 @@ First install markdoc:
 
 Then just run `markdoc doc.md` which outputs a single html file of the rendered markdown.
 
+[Experience](http://api.ge.tt/0/8CDCvt4/1/blob) how this markdown file is rendered with markdoc.
+
 ### But wait! there is more!
 
 Markdoc can also render markdown that is written inside comments in a code file.

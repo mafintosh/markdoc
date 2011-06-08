@@ -1,5 +1,5 @@
 var format = require('common').format;
-var markdown = require('markdown').parse;
+var markdown = require('node-markdown').Markdown;
 
 var wrapper = require('fs').readFileSync(__dirname+'/markdoc.html','utf-8');
 
