@@ -1,6 +1,6 @@
 {
  "name":"markdoc",
- "version":"0.0.2",
+ "version":"0.1.0",
  "homepage":"http://mafintosh.github.com/markdoc",
  "description":"Render documentation written in markdown into a single pretty html file",
  "author":"Mathias Buus Madsen <mathiasbuus@gmail.com>",
