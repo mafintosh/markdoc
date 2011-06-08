@@ -7,7 +7,7 @@ First install markdoc:
 
 Then just run `markdoc doc.md` which outputs a single html file of the rendered markdown.
 
-[Experience](http://api.ge.tt/0/8CDCvt4/1/blob) how this markdown file is rendered with markdoc.
+[This html file](http://mafintosh.github.com/markdoc) is the result of rendering [this markdown file](https://raw.github.com/mafintosh/markdoc/master/README.md) with markdoc.
 
 ### But wait! there is more!
 
